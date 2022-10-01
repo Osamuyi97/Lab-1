@@ -34,3 +34,5 @@ https://github.com/Osamuyi97/Lab-1/blob/main/20220930_195752_1.gif
 
 https://github.com/Osamuyi97/Lab-1/blob/main/20220930_195849_2.gif
 
+https://github.com/Osamuyi97/Lab-1/blob/main/20220930_195942_1.gif
+
