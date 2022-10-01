@@ -28,3 +28,6 @@ o	Continuous Backspace: RED
 o	Do Nothing: Clear 
 •	Have a (Do Nothing) setting is the bread and butter of this Program because it allows RP2040 not to go on an endless loop of O’s and Backspace.
 •	Very Usefully when your program wants to go erase everything including your code!!
+
+
+https://github.com/Osamuyi97/Lab-1/blob/main/20220930_195752_1.gif 
