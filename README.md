@@ -13,6 +13,7 @@ Firefly
 •	At a certain value the RGB will turn on but if that value where to fall back down the brightness will decrease instantly 
 •	The color_integration_time helps increase the response time between two sensor values  
 
+https://github.com/Osamuyi97/Lab-1/blob/main/20220930_200545_1.gif
 
 Keyboard Emulator - Q4.4
 •	The RP2040 will be used as a keyboard in this Program
