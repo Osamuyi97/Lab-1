@@ -1,3 +1,14 @@
+University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 1
+
+
+Osamuyi Uwadia
+ 
+https://www.linkedin.com/in/osamuyi-uwadia-a3038813b/
+
+Tested on : HP Spectre x360 Convertible 15-df1xxx Microsoft Windows 11
+
+
+
 General Information 
 
 In Q3.2 for the Firefly Program, the Embedded System (RP2040) will use the RGB LED to tracks the brightness reading from the color sensor (APDS9960). We want the senor to be able to determine if pointed at something bright the RGB LED would light up and if covered up the RGB LED is dim down  
